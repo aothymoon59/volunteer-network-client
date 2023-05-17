@@ -1,0 +1,19 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.mont-font {
+    font-family: 'Montserrat', sans-serif;
+}
+
+.roboto-font {
+    font-family: 'Roboto', sans-serif;
+}
+
+td {
+    background-color: white !important;
+}
+
+th {
+    background-color: #F5F6FA !important;
+}
